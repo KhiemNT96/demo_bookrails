@@ -53,3 +53,9 @@ gem 'bootstrap', '~> 4.0.0.beta'
 gem 'jquery-rails'
 gem 'bootstrap-sass', '3.3.7'
 gem 'bcrypt'
+gem "minitest-rails"
+gem "minitest"
+gem 'rails-controller-testing'
+gem 'faker' #make sample users with semi-realistic names and email addresses
+gem  'will_paginate'            #
+gem  'bootstrap-will_paginate'    #called will_paginate #Phan trang
