@@ -59,3 +59,7 @@ gem 'rails-controller-testing'
 gem 'faker' #make sample users with semi-realistic names and email addresses
 gem  'will_paginate'            #
 gem  'bootstrap-will_paginate'    #called will_paginate #Phan trang
+#Gem xuly tai hinh anh len web
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog' #Luu tru hinh anh tren dich vu luu tru dam may
